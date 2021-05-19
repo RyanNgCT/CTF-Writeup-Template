@@ -1,7 +1,46 @@
 # CTF-Writeup-Template
 Writeup Template. Feel free to replicate but please give me credit!
 
-Main Page:
+To view samplers, check out the links:
+* [Main Page](https://github.com/RyanNgCT/CTF-Writeup-Template/blob/main/test/main.md)
+* [Challenge Page](https://github.com/RyanNgCT/CTF-Writeup-Template/blob/main/test/chall.md)
+
+## Suggested Layout
+```
+main.md
+|
+|
+---- Crypto/Stego
+|   |
+|   ---- chall1
+|      |
+|      ---- chall1.md
+|      |
+|      ---- chall1_images
+|          |
+|          ---- img1a
+|          |
+|          ---- img1b
+|
+---- Misc
+|   |
+|   ---- chall2
+|      |
+|      ---- chall2.md
+|      |
+|      ---- chall2_images
+|          |
+|          ---- img2a
+|          |
+|          ---- img2b
+|
+
+...
+
+```
+
+
+## Main Page:
 ```
 # <CTF_NAME> CTF
 
@@ -56,7 +95,7 @@ Writeups for <CTF_NAME> CTF: [website_name](<http://www.ctflink.com>)
 _\* delete where necessary_
 
 
-Challenge Page:
+## Challenge Page:
 ```
 ## Challenge Name: <name>
 Category: <category>
@@ -82,8 +121,10 @@ Artifact Files:
 
 
 ### Reflections
+<reflections ...>
+  
 
-
+---
 [Back to home](<link>)
 
 ```
