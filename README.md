@@ -115,7 +115,7 @@ Artifact Files:
 
 ![img](<image_link>)
 
-**2 <Question_2_description>?/flag2**
+**2. <Question_2_description>?/flag2**
 
 ![img](<image_link>)
 
