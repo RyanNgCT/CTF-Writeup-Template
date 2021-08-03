@@ -5,6 +5,8 @@ To view samplers, check out the links:
 * [Main Page](https://github.com/RyanNgCT/CTF-Writeup-Template/blob/main/test/main.md)
 * [Challenge Page](https://github.com/RyanNgCT/CTF-Writeup-Template/blob/main/test/chall.md)
 
+Text enclosed in angled brackets are placeholders that need to be replaced.
+
 ## Suggested Layout
 ```
 main.md
