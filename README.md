@@ -130,3 +130,6 @@ Artifact Files:
 [Back to home](<link>)
 
 ```
+
+## Shortcuts and Tips
+- for downloading files when doing the CTF, one can use `wget --content-disposition <file_link>` to obtain the file with the same name from the CTF file server (if not hosted on a Drive solution).
